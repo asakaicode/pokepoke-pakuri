@@ -1,1 +1,1 @@
-# PokePokeのパクリを作ってみる
+# PokePokeパクリ
